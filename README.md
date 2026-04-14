@@ -39,7 +39,7 @@ Matplotlib / Seaborn
 
 Clone the repository:
 
-git clone https://github.com/your-username/diabetes-prediction.git
+git clone https://github.com/yogeshyadav-07/diabetes-prediction.git
 cd diabetes-prediction
 
 Install dependencies:
